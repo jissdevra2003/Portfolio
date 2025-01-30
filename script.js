@@ -2,7 +2,7 @@ var tabLinks=document.querySelectorAll(".tab-links");   //more than one tab-link
 var tabContents=document.querySelectorAll(".tab-content");  //more than one tab-content classes
 
 var typed=new Typed("#animation",{
-strings:["xyz","abc"],
+strings:["a Full-stack developer"],
 typeSpeed:150,
 backSpeed:150,
 loop:true,
